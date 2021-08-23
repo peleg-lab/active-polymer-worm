@@ -1,0 +1,1 @@
+Simulates worm behavior in 2-D by modeling each worm as a tangentially-driven polymer. Use sim_worm.m to simulate worms in a constant temperature environment and sim_worm_tgrad.m to simulate worms in a temperature gradient.
